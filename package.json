@@ -1,0 +1,9 @@
+{
+  "name": "superskua",
+  "title": "superskua",
+  "id": "jid1-ELBnFPmp8D4dCg",
+  "description": "Distrusts the Superfish Root Certificate",
+  "author": "dkeeler@mozilla.com",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
